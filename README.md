@@ -19,12 +19,12 @@ When creating new questions, keep in mind:
 
 - [Anagrams](algorithm/anagrams.md)
 - [Coin Problem](algorithm/coin-problem.md)
-- [Integer Division](algorithm/integer-division.md), [working example](algorithm/integer-division.py)
+- [Integer Division](algorithm/integer-division.md) ([working example](algorithm/integer-division.py))
 - [Queens on a Chessboard](algorithm/queens-on-a-chessboard.md)
 - [Reversals](algorithm/reversals.md)
 
 ### Web (back-end)
 
-- [Adaptive Allowlist](web-backend/adaptive-allowlist.md), [working example](web-backend/adaptive-allowlist.py)
+- [Adaptive Allowlist](web-backend/adaptive-allowlist.md) ([working example](web-backend/adaptive-allowlist.py))
 - [Request Statistics](web-backend/request-statistics.md)
 - [Webserver Skeleton](web-backend/webserver-skeleton.md)
