@@ -43,3 +43,5 @@ def divide(numerator: int, denominator: int) -> int:
 
     return quotient
 ```
+
+For a working version, see [integer-division.py](integer-division.py).
