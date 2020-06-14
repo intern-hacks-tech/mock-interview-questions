@@ -14,7 +14,9 @@ When creating new questions, keep in mind:
 
 - [Anagrams](algorithm/anagrams.md)
 - [Coin Problem](algorithm/coin-problem.md)
+- [Integer Division](algorithm/integer-division.md)
 - [Queens on a Chessboard](algorithm/queens-on-a-chessboard.md)
+- [Reversals](algorithm/reversals.md)
 
 ### Web (back-end)
 
