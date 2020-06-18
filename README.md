@@ -23,8 +23,12 @@ When creating new questions, keep in mind:
 - [Queens on a Chessboard](algorithm/queens-on-a-chessboard.md)
 - [Reversals](algorithm/reversals.md)
 
+### Data
+
+- [Adaptive Allowlist](data/adaptive-allowlist.md) ([working example](data/adaptive-allowlist.py))
+- [Frequency](data/frequency.md) ([working example](data/frequency.py))
+
 ### Web (back-end)
 
-- [Adaptive Allowlist](web-backend/adaptive-allowlist.md) ([working example](web-backend/adaptive-allowlist.py))
 - [Request Statistics](web-backend/request-statistics.md)
 - [Webserver Skeleton](web-backend/webserver-skeleton.md)
